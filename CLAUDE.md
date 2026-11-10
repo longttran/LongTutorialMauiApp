@@ -12,3 +12,4 @@
 - Ensure this project is ready for CI/CD deployment.  For now, just expect to kick off builds when there's a need to update the main branch.  Consider planning for production deployment in the future.
 - When your changes are ready, create/update an AGENTS.md to provide guidance for future AI coding agents and new contributors.  CLAUDE.md imports the AGENTS.md file.  DO NOT COMMIT SECRETS, .env FILES, OR ARTIFACTS.
 - Document Invariants and how they are handled.  
+- Create a .gitignore file to ignore files that do not need to get checked in.  View previous specifics for guidance.
